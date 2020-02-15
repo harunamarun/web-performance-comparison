@@ -1,0 +1,8 @@
+{
+  "name": "web-performance-comparison",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harunamarun/web-performance-comparison.git",
+  "author": "harunamarun <harunamarun@gmail.com>",
+  "license": "MIT"
+}
