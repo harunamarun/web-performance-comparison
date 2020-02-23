@@ -25,6 +25,13 @@ const port = process.env.PORT || 4000;
 // Have it serve up the index.html file
 app.use(express.static(path.join(__dirname)));
 
+app.get("/js/index.js", (req, res) => {
+  setTimeout(
+    () => res.sendFile(`${path.join(__dirname)}/src/js/index.js`),
+    5000
+  );
+});
+
 // The PORT that our server sits on
 app.listen(port, function() {
   console.log("This app listening on " + port + "!");
