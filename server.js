@@ -28,7 +28,7 @@ app.use(express.static(path.join(__dirname)));
 app.get("/js/index.js", (req, res) => {
   setTimeout(
     () => res.sendFile(`${path.join(__dirname)}/src/js/index.js`),
-    5000
+    15000
   );
 });
 

@@ -5,3 +5,7 @@ body {
 img {
   width: 95%;
 }
+
+#target {
+  font-size: 40px;
+}
