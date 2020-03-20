@@ -1,6 +1,7 @@
 # MiniConf: web-performance-comparison   
 "This was created during my time as a student at Code Chrysalis."   
 We can see the difference using the async attribute for script tags.
+Explaining slides is<a href=https://www.slideshare.net/HarunaUtsumi/deep-dive-into-browser-internal-processing>HERE</a>.
 
 
 ## Setup Instructions
