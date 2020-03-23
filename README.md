@@ -1,5 +1,5 @@
 # MiniConf: web-performance-comparison   
-"This was created during my time as a student at Code Chrysalis."   
+"This was created during my time as a student at <a href=https://www.codechrysalis.io/>Code Chrysalis</a>."   
 
 We can see the difference using the async attribute for script tags.   
 Explaining slides is <a href=https://www.slideshare.net/HarunaUtsumi/deep-dive-into-browser-internal-processing>HERE</a>.
